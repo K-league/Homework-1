@@ -40,4 +40,6 @@ Adding these to the img element after the src attribute allows for the defining 
 
 Then, it was necessary to further define the <div> elements that contained the <article> to make them further comprehensible to screen readers as sepearate articles.
 
+Moved the benefits panel infront of the content a, b, and c to correct formatting error.
+
 Finally, identifying the footer as such signals to the user that the content has ended upon reaching the bottom of the page. 
